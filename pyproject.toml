@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "warp-plus-bot"
 version = "0.1.0"
-description = "Telegram bot which can give you free WARP+ bandwidth."
+description = "Telegram bot which can give you free bandwidth on Cloudflare WARP+"
 authors = ["Culture Cloud"]
 license = "MIT"
 
